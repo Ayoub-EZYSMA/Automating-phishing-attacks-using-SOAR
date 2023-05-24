@@ -3,9 +3,7 @@
 Shuffle is an Open Source interpretation of SOAR. It aims to bring all the capabilities necessary to transfer data throughout an enterprise with plug-and-play Apps, making automation approachable for everyone. It should remove the need for a coder on the team (I still suggest having at least one..), empowering everyone by being able to deploy new, complicated (or simple) workflows in minutes rather than hours or days.
 
 
-
-
-![image](https://github.com/Ayoub-EZYSMA/Automating-phishing-attacks-using-SOAR/assets/105115622/5a12a0f0-4b7d-4c4b-8fdc-0e8a8c1b7911)
+![image](https://github.com/Ayoub-EZYSMA/Automating-phishing-attacks-using-SOAR/assets/105115622/5a12a0f0-4b7d-4c4b-8fdc-0e8a8c1b7911){:height="10px" width="10px"}
 
 
 ## The scenario used to generate the workflow
@@ -16,4 +14,6 @@ I utilized the Shuffle platform to implement a beginner workflow focused on hand
   - To ensure a comprehensive analysis, I leverage VirusTotal to scrutinize the IP addresses associated with the identified URLs. 
   - Additionally, I validate the eligibility of the certificate authority by utilizing a Python script. 
   - Based on specific conditions, an alert is generated in a Teams room. If deemed necessary, I possess the capability to delete the suspicious email, thereby mitigating potential risks.
-![Overview of my workflow](https://github.com/Ayoub-EZYSMA/Automating-phishing-attacks-using-SOAR/assets/105115622/66d105b7-5560-4299-8fdb-fe38f8158192)
+  
+  
+![Overview of my workflow](https://github.com/Ayoub-EZYSMA/Automating-phishing-attacks-using-SOAR/assets/105115622/66d105b7-5560-4299-8fdb-fe38f8158192){:height="10px" width="10px"}
